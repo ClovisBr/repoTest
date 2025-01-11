@@ -7,3 +7,6 @@ status: BUILD
 
 OMG THIS IS UNSTABLE BE CAREFULL !
 Some new changes for the unstable feature
+
+Some testing and finishing with bug fix
+finally stable
