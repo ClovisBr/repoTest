@@ -10,3 +10,4 @@ Some new changes for the unstable feature
 
 Some testing and finishing with bug fix
 finally stable
+new stuff
